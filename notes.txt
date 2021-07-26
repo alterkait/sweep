@@ -1,0 +1,6 @@
+------------------------
+Version 1.1.0
+
+  - Counter [if flagged += counter]
+  - Timer from start = 0
+  - Reveal Bombs at end 
